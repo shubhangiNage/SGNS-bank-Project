@@ -23,8 +23,6 @@ public class Customer {
 	private String customerFirstName;
 	private String customerLastName;
 private String xyz;
-private String xyz123;
-
 
 	
 	private String customerDateOfBirth;
