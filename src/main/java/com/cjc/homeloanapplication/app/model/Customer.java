@@ -31,7 +31,7 @@ private String xyz123;
 	private String customerAge;
 	private String customerGender;
 	private String customerEmail;
-	
+private String abc;
 	private String customerMobileNumber;
 	private String customerAdditionalMobileNumber;
 	private Double customerAmountSanctioned;
@@ -46,7 +46,7 @@ private String xyz123;
 	private String occupation;
 	private String remark;
 	private String status;
-	
+
 	
 	
 	@OneToOne(cascade = CascadeType.ALL)
