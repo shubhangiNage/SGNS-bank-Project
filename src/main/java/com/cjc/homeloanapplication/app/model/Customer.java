@@ -24,6 +24,10 @@ public class Customer {
 	private String customerLastName;
 private String xyz;
 private String xyz123;
+private String xyz111;
+private String xyz123111;
+private String xyz111;
+private String xyz123;
 
 
 	
@@ -32,6 +36,7 @@ private String xyz123;
 	private String customerGender;
 	private String customerEmail;
 private String abc;
+
 	private String customerMobileNumber;
 	private String customerAdditionalMobileNumber;
 	private Double customerAmountSanctioned;
