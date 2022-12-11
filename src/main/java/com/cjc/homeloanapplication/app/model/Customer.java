@@ -29,6 +29,12 @@ private String xyz123111;
 private String xyz111;
 private String xyz123;
 
+private String xyz22;
+private String xyz123111;
+
+private String xyz33;
+private String xyz12333;
+
 
 	
 	private String customerDateOfBirth;
