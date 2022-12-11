@@ -18,4 +18,5 @@ public class CustomerAddress {
 	private String areaName;
 	private Integer pincode;
 	private String state;
+private String state123;
 }
