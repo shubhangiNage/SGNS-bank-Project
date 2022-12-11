@@ -11,6 +11,8 @@ public interface LoanService {
 	Customer setCustomerData(Customer customer);
 
 	List<Customer> getAllCustomerData();
+         
+       List<Customer> CustomerData();
 
 	Customer getCustomerwithcustomerAccno(Integer customerAccno);
 
