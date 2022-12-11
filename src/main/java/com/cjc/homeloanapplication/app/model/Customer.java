@@ -22,6 +22,8 @@ public class Customer {
 	private Integer customerAccno;
 	private String customerFirstName;
 	private String customerLastName;
+private String xyz;
+
 	
 	private String customerDateOfBirth;
 	private String customerAge;
